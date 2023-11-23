@@ -1,0 +1,234 @@
+Manufacturer:Huawei Technologies Co., Ltd;
+ProductClass:HG8145X6;
+SerialNumber:48575443331576AC;
+IP:10.131.8.212;
+HWVer:1CDD.A;
+SWVer:V5R021C10S237;
+
+1981-01-01 00:00:00 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: System reset after being powered on, Terminal:OTHER
+2023-09-29 23:53:35 [Critical][Config-Log] Terminal:WEB(192.168.100.64),Result:Fail,Type:Login,Username:root
+2023-09-29 23:54:12 [Critical][Config-Log] Terminal:WEB(192.168.100.64),Result:Fail,Type:Login,Username:Root
+2023-09-29 23:55:00 [Critical][Config-Log] Terminal:WEB(192.168.100.64),Result:Fail,Type:Login,Username:root
+2023-09-29 23:55:00 [Error][Alarm-Log] AlarmID:104032,AlarmLevel:Error,Administrator exceeded maximum number of attempted logins.Terminal:WEB
+2023-09-29 23:56:00 [Error][Alarm-Log] AlarmID:104519,AlarmLevel:Error,[WEB]unlocked!
+2023-09-30 00:01:04 [Critical][Config-Log] Terminal:WEB(192.168.100.64),Result:Success,Type:Login,Username:root
+2023-09-30 00:14:31 [Critical][Config-Log] [1]Terminal:WEB(192.168.100.64),UserName:root,Result:Success,Type:Set,X_HW_DEBUG.AMP.WifiCoverSetWlanBasic:,SsidInst:1,SSID:CasaAzamar_2.4Gnormal,Enable:1,Standard:11ax,BasicAuthenticationMode:None,B
+2023-09-30 00:14:31 [Critical][Config-Log] [2]asicEncryptionModes:TKIPandAESEncryption,WPAAuthenticationMode:EAPAuthentication,WPAEncryptionModes:TKIPandAESEncryption,IEEE11iAuthenticationMode:EAPAuthentication,IEEE11iEncryptionModes:TKIPa
+2023-09-30 00:14:31 [Critical][Config-Log] [3]ndAESEncryption,MixAuthenticationMode:PSKAuthentication,MixEncryptionModes:TKIPandAESEncryption,SSIDAdvertisementEnabled:1,WMMEnable:1,MaxAssociateNum:32,BeaconType:WPAand11i,WEPEncryptionLevel
+2023-09-30 00:14:31 [Critical][Config-Log] [4]:104-bit,WEPKeyIndex:1,Key:-
+2023-09-30 00:14:31 [Critical][Config-Log] [1]Terminal:WEB(192.168.100.64),UserName:root,Result:Success,Type:Set,InternetGatewayDevice.LANDevice.WLANConfiguration:1.1,Enable:1,SSIDAdvertisementEnabled:1,SSID:CasaAzamar_2.4Gnormal,X_HW_Associa
+2023-09-30 00:14:31 [Critical][Config-Log] [2]teNum:32,BeaconType:WPAand11i,X_HW_WPAand11iAuthenticationMode:PSKAuthentication,X_HW_WPAand11iEncryptionModes:TKIPandAESEncryption,X_HW_GroupRekey:3600
+2023-09-30 00:14:31 [Critical][Config-Log] Terminal:WEB(192.168.100.64),UserName:root,Result:Success,Type:Set,LANDevice.WLANConfiguration.WPS:1.1,Enable:0,X_HW_ConfigMethod:PushButton
+2023-09-30 00:14:32 [Critical][Config-Log] Terminal:WEB(192.168.100.64),UserName:root,Result:Success,Type:Set,LANDevice.WLANConfiguration.PreSharedKey:1.1.1,PreSharedKey:-
+2023-09-30 00:16:02 [Critical][Config-Log] [1]Terminal:WEB(192.168.100.64),UserName:root,Result:Success,Type:Set,X_HW_DEBUG.AMP.WifiCoverSetWlanBasic:,SsidInst:5,SSID:Totalplay-76AC-5G,Enable:1,Standard:11ax,BasicAuthenticationMode:None,Basic
+2023-09-30 00:16:02 [Critical][Config-Log] [2]EncryptionModes:AESEncryption,WPAAuthenticationMode:EAPAuthentication,WPAEncryptionModes:AESEncryption,IEEE11iAuthenticationMode:PSKAuthentication,IEEE11iEncryptionModes:AESEncryption,MixAuthen
+2023-09-30 00:16:02 [Critical][Config-Log] [3]ticationMode:EAPAuthentication,MixEncryptionModes:AESEncryption,SSIDAdvertisementEnabled:1,WMMEnable:1,MaxAssociateNum:64,BeaconType:11i,WEPEncryptionLevel:104-bit,WEPKeyIndex:1,Key:-
+2023-09-30 00:16:02 [Critical][Config-Log] [1]Terminal:WEB(192.168.100.64),UserName:root,Result:Success,Type:Set,InternetGatewayDevice.LANDevice.WLANConfiguration:1.5,Enable:1,SSIDAdvertisementEnabled:1,SSID:Totalplay-76AC-5G,X_HW_AssociateNu
+2023-09-30 00:16:02 [Critical][Config-Log] [2]m:64,BeaconType:11i,IEEE11iAuthenticationMode:PSKAuthentication,IEEE11iEncryptionModes:AESEncryption,X_HW_GroupRekey:3600
+2023-09-30 00:16:02 [Critical][Config-Log] Terminal:WEB(192.168.100.64),UserName:root,Result:Success,Type:Set,LANDevice.WLANConfiguration.WPS:1.5,Enable:0,X_HW_ConfigMethod:PushButton
+2023-09-30 00:16:03 [Critical][Config-Log] Terminal:WEB(192.168.100.64),UserName:root,Result:Success,Type:Set,LANDevice.WLANConfiguration.PreSharedKey:1.5.1,PreSharedKey:-
+2023-09-30 00:17:04 [Critical][Config-Log] Terminal:WEB(192.168.100.64),UserName:root,Result:Success,Type:Set,InternetGatewayDevice.UserInterface.X_HW_WebUserInfo:1,Password:-,OldPassword:-,GuideModifyPwdFlag:1
+2023-09-30 00:17:09 [Critical][Config-Log] Terminal:WEB(192.168.100.64),UserName:root,Result:Success,Type:Set,LANDevice.WLANConfiguration.PreSharedKey:1.1.1,PreSharedKey:-
+2023-09-30 00:17:09 [Critical][Config-Log] Terminal:WEB(192.168.100.64),UserName:root,Result:Success,Type:Set,InternetGatewayDevice.LANDevice.WLANConfiguration:1.1,SSID:CasaAzamar_2.4Gnormal
+2023-09-30 00:17:09 [Critical][Config-Log] Terminal:WEB(192.168.100.64),UserName:root,Result:Success,Type:Set,LANDevice.WLANConfiguration.PreSharedKey:1.5.1,PreSharedKey:-
+2023-09-30 00:17:09 [Critical][Config-Log] Terminal:WEB(192.168.100.64),UserName:root,Result:Success,Type:Set,InternetGatewayDevice.LANDevice.WLANConfiguration:1.5,SSID:Totalplay-76AC-5G
+2023-09-30 00:18:02 [Critical][Config-Log] Terminal:WEB(192.168.100.64),UserName:root,Result:Success,Type:Delete,InternetGatewayDevice.LANDevice.X_HW_UserDev:1.5
+2023-09-30 00:18:13 [Critical][Config-Log] Terminal:WEB(192.168.100.64),UserName:root,Result:Success,Type:Delete,InternetGatewayDevice.LANDevice.X_HW_UserDev:1.6
+2023-09-30 00:19:11 [Critical][Config-Log] Terminal:WEB(192.168.100.64),UserName:root,Result:Success,Type:Delete,InternetGatewayDevice.LANDevice.X_HW_UserDev:1.9
+2023-09-30 00:21:08 [Critical][Config-Log] Terminal:WEB(192.168.100.64),UserName:root,Result:Success,Cmd:One-Click Diagnosis
+2023-09-30 00:21:08 [Critical][Config-Log] Terminal:WEB(192.168.100.64),UserName:root,Result:Success,Type:Set,X_HW_DEBUG.BBSP.ExtendPortTransCheck:,portid:1234
+2023-09-30 00:21:08 [Critical][Config-Log] Terminal:WEB(192.168.100.64),UserName:root,Result:Success,Type:Set,X_HW_DEBUG.VSPA.TotalTest:,TestState:Requested
+2023-09-30 00:33:14 [Critical][Config-Log] [1]Terminal:WEB(192.168.100.64),UserName:root,Result:Success,Type:Set,X_HW_DEBUG.AMP.WifiCoverSetWlanBasic:,SsidInst:5,SSID:Totalplay-76AC-5G,Enable:1,Standard:11ax,BasicAuthenticationMode:None,Basic
+2023-09-30 00:33:14 [Critical][Config-Log] [2]EncryptionModes:TKIPandAESEncryption,WPAAuthenticationMode:EAPAuthentication,WPAEncryptionModes:TKIPandAESEncryption,IEEE11iAuthenticationMode:EAPAuthentication,IEEE11iEncryptionModes:TKIPandAE
+2023-09-30 00:33:14 [Critical][Config-Log] [3]SEncryption,MixAuthenticationMode:PSKAuthentication,MixEncryptionModes:TKIPandAESEncryption,SSIDAdvertisementEnabled:1,WMMEnable:1,MaxAssociateNum:64,BeaconType:WPAand11i,WEPEncryptionLevel:104
+2023-09-30 00:33:14 [Critical][Config-Log] [4]-bit,WEPKeyIndex:1,Key:-
+2023-09-30 00:33:15 [Critical][Config-Log] [1]Terminal:WEB(192.168.100.64),UserName:root,Result:Success,Type:Set,InternetGatewayDevice.LANDevice.WLANConfiguration:1.5,Enable:1,SSIDAdvertisementEnabled:1,SSID:Totalplay-76AC-5G,X_HW_AssociateNu
+2023-09-30 00:33:15 [Critical][Config-Log] [2]m:64,BeaconType:WPAand11i,X_HW_WPAand11iAuthenticationMode:PSKAuthentication,X_HW_WPAand11iEncryptionModes:TKIPandAESEncryption,X_HW_GroupRekey:3600
+2023-09-30 00:33:15 [Critical][Config-Log] Terminal:WEB(192.168.100.64),UserName:root,Result:Success,Type:Set,LANDevice.WLANConfiguration.WPS:1.5,Enable:0,X_HW_ConfigMethod:PushButton
+2023-09-30 00:33:15 [Critical][Config-Log] Terminal:WEB(192.168.100.64),UserName:root,Result:Success,Type:Set,LANDevice.WLANConfiguration.PreSharedKey:1.5.1,PreSharedKey:-
+2023-09-30 00:35:58 [Critical][Config-Log] Terminal:WEB(192.168.100.64),Result:Success,Type:Logout,Username:root
+2023-09-30 00:37:07 [Critical][Config-Log] Terminal:WEB(192.168.100.64),Result:Fail,Type:Login,Username:Root
+1981-01-01 00:00:00 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: System reset after being powered on, Terminal:OTHER
+2023-10-01 05:35:06 [Critical][Config-Log] Terminal:WEB(192.168.100.64),Result:Success,Type:Login,Username:root
+2023-10-01 05:36:29 [Critical][Config-Log] Terminal:WEB(192.168.100.64),Result:Success,Type:Login,Username:root
+2023-10-01 05:37:43 [Critical][Config-Log] Terminal:WEB(192.168.100.64),UserName:root,Result:Success,Cmd:One-Click Diagnosis
+2023-10-01 05:37:44 [Critical][Config-Log] Terminal:WEB(192.168.100.64),UserName:root,Result:Success,Type:Set,X_HW_DEBUG.BBSP.ExtendPortTransCheck:,portid:1234
+2023-10-01 05:37:44 [Critical][Config-Log] Terminal:WEB(192.168.100.64),UserName:root,Result:Success,Type:Set,X_HW_DEBUG.VSPA.TotalTest:,TestState:Requested
+2023-10-01 05:44:23 [Critical][Config-Log] Terminal:WEB(192.168.100.64),Result:Success,Type:Logout,Username:root
+2023-10-03 04:44:08 [Critical][Config-Log] Terminal:WEB(192.168.100.68),Result:Fail,Type:Login,Username:root
+2023-10-03 04:44:31 [Critical][Config-Log] Terminal:WEB(192.168.100.68),Result:Fail,Type:Login,Username:root
+2023-10-03 04:44:51 [Critical][Config-Log] Terminal:WEB(192.168.100.68),Result:Fail,Type:Login,Username:root
+2023-10-03 04:44:51 [Error][Alarm-Log] AlarmID:104032,AlarmLevel:Error,Administrator exceeded maximum number of attempted logins.Terminal:WEB
+2023-10-03 04:45:51 [Error][Alarm-Log] AlarmID:104519,AlarmLevel:Error,[WEB]unlocked!
+2023-10-03 08:01:16 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: [0], Terminal:ACS
+2023-10-03 08:12:42 [Critical][Config-Log] Terminal:WEB(192.168.100.68),Result:Success,Type:Login,Username:root
+2023-10-03 08:14:06 [Error][Alarm-Log] AlarmID:304523,AlarmLevel:Error,[WEB]Unauthorized web request from ip 192.168.100.69
+2023-10-03 08:14:06 [Error][Alarm-Log] AlarmID:304523,AlarmLevel:Error,[WEB]Unauthorized web request from ip 192.168.100.69
+2023-10-03 08:14:18 [Critical][Config-Log] Terminal:WEB(192.168.100.69),Result:Fail,Type:Login,Username:Root
+2023-10-03 08:14:25 [Critical][Config-Log] Terminal:WEB(192.168.100.69),Result:Fail,Type:Login,Username:root
+2023-10-03 08:14:40 [Critical][Config-Log] Terminal:WEB(192.168.100.68),Result:Success,Type:Logout,Username:root
+2023-10-03 08:14:50 [Critical][Config-Log] Terminal:WEB(192.168.100.69),Result:Success,Type:Login,Username:root
+2023-10-03 08:18:31 [Critical][Config-Log] Terminal:WEB(192.168.100.69),Result:Success,Type:Logout,Username:root
+2023-10-03 10:46:47 [Critical][Config-Log] Terminal:WEB(192.168.100.69),Result:Success,Type:Login,Username:root
+2023-10-03 10:58:34 [Critical][Config-Log] Terminal:WEB(192.168.100.69),UserName:root,Result:Success,Cmd:One-Click Diagnosis
+2023-10-03 10:58:34 [Critical][Config-Log] Terminal:WEB(192.168.100.69),UserName:root,Result:Success,Type:Set,X_HW_DEBUG.BBSP.ExtendPortTransCheck:,portid:1234
+2023-10-03 10:58:34 [Critical][Config-Log] Terminal:WEB(192.168.100.69),UserName:root,Result:Success,Type:Set,X_HW_DEBUG.VSPA.TotalTest:,TestState:Requested
+2023-10-03 11:05:31 [Critical][Config-Log] Terminal:WEB(192.168.100.69),Result:Success,Type:Logout,Username:root
+2023-10-04 03:32:08 [Critical][Config-Log] Terminal:WEB(192.168.100.69),Result:Success,Type:Login,Username:root
+2023-10-04 03:33:36 [Critical][Config-Log] Terminal:WEB(192.168.100.69),Result:Success,Type:Logout,Username:root
+2023-10-07 23:11:41 [Critical][Config-Log] Terminal:WEB(192.168.100.75),Result:Success,Type:Login,Username:root
+2023-10-07 23:14:58 [Error][Alarm-Log] AlarmID:304523,AlarmLevel:Error,[WEB]Unauthorized web request from ip 192.168.100.76
+2023-10-07 23:14:58 [Error][Alarm-Log] AlarmID:304523,AlarmLevel:Error,[WEB]Unauthorized web request from ip 192.168.100.76
+2023-10-07 23:15:03 [Critical][Config-Log] Terminal:WEB(192.168.100.75),Result:Success,Type:Logout,Username:root
+2023-10-09 00:08:58 [Critical][Config-Log] Terminal:WEB(192.168.100.78),Result:Success,Type:Login,Username:root
+2023-10-09 00:11:21 [Critical][Config-Log] Terminal:WEB(192.168.100.78),Result:Success,Type:Logout,Username:root
+2023-10-10 10:12:46 [Critical][Config-Log] Terminal:WEB(192.168.100.76),Result:Success,Type:Login,Username:root
+2023-10-10 10:15:40 [Critical][Config-Log] Terminal:WEB(192.168.100.76),Result:Success,Type:Logout,Username:root
+2023-10-12 23:48:58 [Alert][Alarm-Log] AlarmID:104106,AlarmLevel:Alert,Voice Register Fail Alarm, No response: Start.ims.enlacetpe.*:5060
+2023-10-13 02:32:11 [Alert][Alarm-Log] AlarmID:104106,AlarmLevel:Alert,Voice Register Fail Alarm, No response: Resume.
+2023-10-13 03:02:42 [Alert][Alarm-Log] AlarmID:104106,AlarmLevel:Alert,Voice Register Fail Alarm, No response: Start.ims.enlacetpe.*:5060
+2023-10-14 01:17:41 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: [0], Terminal:ACS
+2023-10-14 01:23:33 [Critical][Config-Log] Terminal:WEB(192.168.100.78),Result:Success,Type:Login,Username:root
+2023-10-14 01:25:32 [Error][Alarm-Log] AlarmID:304523,AlarmLevel:Error,[WEB]Unauthorized web request from ip 192.168.100.76
+2023-10-14 01:25:32 [Error][Alarm-Log] AlarmID:304523,AlarmLevel:Error,[WEB]Unauthorized web request from ip 192.168.100.76
+2023-10-14 01:26:06 [Critical][Config-Log] Terminal:WEB(192.168.100.78),Result:Success,Type:Logout,Username:root
+2023-10-14 01:51:49 [Alert][Alarm-Log] AlarmID:104106,AlarmLevel:Alert,Voice Register Fail Alarm, No response: Start.ims.enlacetpe.*:5060
+2023-10-14 01:58:26 [Alert][Alarm-Log] AlarmID:104106,AlarmLevel:Alert,Voice Register Fail Alarm, No response: Resume.
+2023-10-15 12:44:34 [Critical][Config-Log] Terminal:WEB(192.168.100.82),Result:Success,Type:Login,Username:root
+2023-10-15 12:47:56 [Critical][Config-Log] Terminal:WEB(192.168.100.82),Result:Success,Type:Logout,Username:root
+2023-10-17 09:16:39 [Critical][Config-Log] Terminal:WEB(192.168.100.84),Result:Success,Type:Login,Username:root
+2023-10-17 09:18:37 [Critical][Config-Log] Terminal:WEB(192.168.100.84),UserName:root,Result:Success,Type:Set,InternetGatewayDevice.X_HW_Security.AclServices:,HTTPWifiEnable:1
+2023-10-17 09:20:29 [Critical][Config-Log] Terminal:WEB(192.168.100.84),UserName:root,Result:Success,Type:Set,InternetGatewayDevice.DeviceInfo:,X_HW_DeviceAlias:Casa Azamar
+2023-10-17 09:22:06 [Critical][Config-Log] Terminal:WEB(192.168.100.84),UserName:root,Result:Success,Cmd:One-Click Diagnosis
+2023-10-17 09:22:06 [Critical][Config-Log] Terminal:WEB(192.168.100.84),UserName:root,Result:Success,Type:Set,X_HW_DEBUG.BBSP.ExtendPortTransCheck:,portid:1234
+2023-10-17 09:22:06 [Critical][Config-Log] Terminal:WEB(192.168.100.84),UserName:root,Result:Success,Type:Set,X_HW_DEBUG.VSPA.TotalTest:,TestState:Requested
+2023-10-17 09:27:50 [Critical][Config-Log] Terminal:WEB(192.168.100.84),Result:Success,Type:Logout,Username:root
+2023-10-17 14:05:48 [Critical][Config-Log] Terminal:WEB(192.168.100.84),Result:Success,Type:Login,Username:root
+2023-10-17 14:06:56 [Error][Alarm-Log] AlarmID:104503,AlarmLevel:Error,Backing up log files.Terminal:WEB
+2023-10-17 14:06:56 [Error][Alarm-Log] AlarmID:104504,AlarmLevel:Error,Log files backed up successfully.Terminal:WEB
+2023-10-17 14:10:11 [Critical][Config-Log] Terminal:WEB(192.168.100.84),Result:Success,Type:Logout,Username:root
+2023-10-17 15:57:06 [Critical][Config-Log] Terminal:WEB(192.168.100.82),Result:Success,Type:Login,Username:root
+2023-10-17 15:59:10 [Error][Alarm-Log] AlarmID:304523,AlarmLevel:Error,[WEB]Unauthorized web request from ip 192.168.100.84
+2023-10-17 15:59:10 [Error][Alarm-Log] AlarmID:304523,AlarmLevel:Error,[WEB]Unauthorized web request from ip 192.168.100.84
+2023-10-17 16:00:04 [Critical][Config-Log] Terminal:WEB(192.168.100.82),Result:Success,Type:Logout,Username:root
+2023-10-17 21:20:16 [Critical][Config-Log] Terminal:WEB(192.168.100.82),Result:Success,Type:Login,Username:root
+2023-10-17 21:21:29 [Critical][Config-Log] [1]Terminal:WEB(192.168.100.82),UserName:root,Result:Success,Type:Set,X_HW_DEBUG.AMP.WifiCoverSetWlanBasic:,SsidInst:5,SSID:Totalplay-76AC-5G,Enable:1,Standard:11ax,BasicAuthenticationMode:None,Basic
+2023-10-17 21:21:29 [Critical][Config-Log] [2]EncryptionModes:TKIPandAESEncryption,WPAAuthenticationMode:EAPAuthentication,WPAEncryptionModes:TKIPandAESEncryption,IEEE11iAuthenticationMode:EAPAuthentication,IEEE11iEncryptionModes:TKIPandAE
+2023-10-17 21:21:29 [Critical][Config-Log] [3]SEncryption,MixAuthenticationMode:PSKAuthentication,MixEncryptionModes:TKIPandAESEncryption,SSIDAdvertisementEnabled:1,WMMEnable:1,MaxAssociateNum:64,BeaconType:WPAand11i,WEPEncryptionLevel:104
+2023-10-17 21:21:29 [Critical][Config-Log] [4]-bit,WEPKeyIndex:1,Key:-
+2023-10-17 21:21:29 [Critical][Config-Log] [1]Terminal:WEB(192.168.100.82),UserName:root,Result:Success,Type:Set,InternetGatewayDevice.LANDevice.WLANConfiguration:1.5,Enable:1,SSIDAdvertisementEnabled:1,SSID:Totalplay-76AC-5G,X_HW_AssociateNu
+2023-10-17 21:21:29 [Critical][Config-Log] [2]m:64,BeaconType:WPAand11i,X_HW_WPAand11iAuthenticationMode:PSKAuthentication,X_HW_WPAand11iEncryptionModes:TKIPandAESEncryption,X_HW_GroupRekey:3600
+2023-10-17 21:21:29 [Critical][Config-Log] Terminal:WEB(192.168.100.82),UserName:root,Result:Success,Type:Set,LANDevice.WLANConfiguration.WPS:1.5,Enable:1,X_HW_ConfigMethod:Lable,X_HW_PinGenerator:STA,DevicePassword:-
+2023-10-17 21:21:30 [Critical][Config-Log] Terminal:WEB(192.168.100.82),UserName:root,Result:Success,Type:Set,LANDevice.WLANConfiguration.PreSharedKey:1.5.1,PreSharedKey:-
+2023-10-17 21:25:05 [Critical][Config-Log] Terminal:WEB(192.168.100.82),Result:Success,Type:Logout,Username:root
+2023-10-17 23:43:56 [Alert][Alarm-Log] AlarmID:104106,AlarmLevel:Alert,Voice Register Fail Alarm, No response: Start.ims.enlacetpe.*:5060
+2023-10-17 23:49:57 [Alert][Alarm-Log] AlarmID:104106,AlarmLevel:Alert,Voice Register Fail Alarm, No response: Resume.
+2023-10-18 06:03:20 [Critical][Config-Log] Terminal:WEB(192.168.100.84),Result:Success,Type:Login,Username:root
+2023-10-18 06:10:09 [Critical][Config-Log] Terminal:WEB(192.168.100.84),Result:Success,Type:Logout,Username:root
+2023-10-18 12:02:42 [Critical][Config-Log] Terminal:WEB(192.168.100.84),Result:Success,Type:Login,Username:root
+2023-10-18 12:04:11 [Critical][Config-Log] Terminal:WEB(192.168.100.84),Result:Success,Type:Logout,Username:root
+2023-10-18 17:32:59 [Critical][Config-Log] Terminal:WEB(192.168.100.84),Result:Success,Type:Login,Username:root
+2023-10-18 17:38:45 [Critical][Config-Log] Terminal:WEB(192.168.100.84),Result:Success,Type:Logout,Username:root
+2023-10-18 23:06:29 [Critical][Config-Log] Terminal:WEB(192.168.100.84),Result:Success,Type:Login,Username:root
+2023-10-18 23:07:43 [Critical][Config-Log] Terminal:WEB(192.168.100.84),Result:Success,Type:Logout,Username:root
+2023-10-19 00:39:56 [Critical][Config-Log] Terminal:WEB(192.168.100.84),Result:Success,Type:Login,Username:root
+2023-10-19 00:42:29 [Critical][Config-Log] Terminal:WEB(192.168.100.84),Result:Success,Type:Logout,Username:root
+2023-10-19 13:13:11 [Critical][Config-Log] Terminal:WEB(192.168.100.88),Result:Fail,Type:Login,Username:root
+2023-10-19 13:13:29 [Critical][Config-Log] Terminal:WEB(192.168.100.88),Result:Fail,Type:Login,Username:ROOT
+2023-10-19 13:13:49 [Critical][Config-Log] Terminal:WEB(192.168.100.88),Result:Fail,Type:Login,Username:root
+2023-10-19 13:13:49 [Error][Alarm-Log] AlarmID:104032,AlarmLevel:Error,Administrator exceeded maximum number of attempted logins.Terminal:WEB
+2023-10-19 13:14:49 [Error][Alarm-Log] AlarmID:104519,AlarmLevel:Error,[WEB]unlocked!
+2023-10-19 14:23:59 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: [0], Terminal:KEY
+2023-10-19 14:29:05 [Critical][Config-Log] Terminal:WEB(192.168.100.88),Result:Fail,Type:Login,Username:root
+2023-10-19 14:29:28 [Critical][Config-Log] Terminal:WEB(192.168.100.88),Result:Fail,Type:Login,Username:root
+2023-10-19 14:30:05 [Critical][Config-Log] Terminal:WEB(192.168.100.88),Result:Fail,Type:Login,Username:root
+2023-10-19 14:30:05 [Error][Alarm-Log] AlarmID:104032,AlarmLevel:Error,Administrator exceeded maximum number of attempted logins.Terminal:WEB
+2023-10-19 14:31:05 [Error][Alarm-Log] AlarmID:104519,AlarmLevel:Error,[WEB]unlocked!
+2023-10-19 16:24:43 [Critical][Config-Log] Terminal:WEB(192.168.100.87),Result:Fail,Type:Login,Username:root
+2023-10-19 16:25:10 [Critical][Config-Log] Terminal:WEB(192.168.100.87),Result:Success,Type:Login,Username:root
+2023-10-19 16:27:06 [Error][Alarm-Log] AlarmID:304523,AlarmLevel:Error,[WEB]Unauthorized web request from ip 192.168.100.89
+2023-10-19 16:27:06 [Error][Alarm-Log] AlarmID:304523,AlarmLevel:Error,[WEB]Unauthorized web request from ip 192.168.100.89
+2023-10-19 16:27:28 [Critical][Config-Log] Terminal:WEB(192.168.100.87),Result:Success,Type:Logout,Username:root
+2023-10-19 23:36:02 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: [0], Terminal:ACS
+2023-10-19 23:41:12 [Critical][Config-Log] Terminal:WEB(192.168.100.89),Result:Success,Type:Login,Username:root
+2023-10-19 23:42:49 [Critical][Config-Log] Terminal:WEB(192.168.100.89),Result:Success,Type:Logout,Username:root
+1981-01-01 00:00:00 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: System reset after being powered on, Terminal:OTHER
+1981-01-01 00:00:00 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: System reset after being powered on, Terminal:OTHER
+2023-10-22 12:47:42 [Critical][Config-Log] Terminal:WEB(192.168.100.93),Result:Success,Type:Login,Username:root
+2023-10-22 12:49:59 [Critical][Config-Log] Terminal:WEB(192.168.100.93),Result:Success,Type:Logout,Username:root
+2023-10-22 17:51:15 [Critical][Config-Log] Terminal:WEB(192.168.100.93),Result:Success,Type:Login,Username:root
+2023-10-22 17:52:53 [Error][Alarm-Log] AlarmID:104503,AlarmLevel:Error,Backing up log files.Terminal:WEB
+2023-10-22 17:52:53 [Error][Alarm-Log] AlarmID:104504,AlarmLevel:Error,Log files backed up successfully.Terminal:WEB
+2023-10-22 17:54:09 [Critical][Config-Log] [1]Terminal:WEB(192.168.100.93),UserName:root,Result:Success,Type:Set,X_HW_DEBUG.AMP.WifiCoverSetWlanBasic:,SsidInst:1,SSID:CasaAzamar_2.4Gnormal,Enable:1,Standard:11ax,BasicAuthenticationMode:None,B
+2023-10-22 17:54:09 [Critical][Config-Log] [2]asicEncryptionModes:AESEncryption,WPAAuthenticationMode:EAPAuthentication,WPAEncryptionModes:AESEncryption,IEEE11iAuthenticationMode:EAPAuthentication,IEEE11iEncryptionModes:AESEncryption,MixAu
+2023-10-22 17:54:09 [Critical][Config-Log] [3]thenticationMode:PSKandSAEAuthentication,MixEncryptionModes:AESEncryption,SSIDAdvertisementEnabled:1,WMMEnable:1,MaxAssociateNum:32,BeaconType:WPA2/WPA3,WEPEncryptionLevel:104-bit,WEPKeyIndex:1
+2023-10-22 17:54:09 [Critical][Config-Log] [4],Key:-
+2023-10-22 17:54:11 [Critical][Config-Log] [1]Terminal:WEB(192.168.100.93),UserName:root,Result:Success,Type:Set,InternetGatewayDevice.LANDevice.WLANConfiguration:1.1,Enable:1,SSIDAdvertisementEnabled:1,SSID:CasaAzamar_2.4Gnormal,X_HW_Associa
+2023-10-22 17:54:11 [Critical][Config-Log] [2]teNum:32,BeaconType:WPA2/WPA3,X_HW_WPAand11iAuthenticationMode:PSKandSAEAuthentication,X_HW_WPAand11iEncryptionModes:AESEncryption,X_HW_GroupRekey:3600
+2023-10-22 17:54:11 [Critical][Config-Log] Terminal:WEB(192.168.100.93),UserName:root,Result:Success,Type:Set,LANDevice.WLANConfiguration.WPS:1.1,Enable:1,X_HW_ConfigMethod:Lable,X_HW_PinGenerator:STA,DevicePassword:-
+2023-10-22 17:54:11 [Critical][Config-Log] Terminal:WEB(192.168.100.93),UserName:root,Result:Success,Type:Set,LANDevice.WLANConfiguration.PreSharedKey:1.1.1,PreSharedKey:-
+2023-10-22 17:55:34 [Critical][Config-Log] [1]Terminal:WEB(192.168.100.93),UserName:root,Result:Success,Type:Set,X_HW_DEBUG.AMP.WifiCoverSetWlanBasic:,SsidInst:5,SSID:Totalplay-76AC-5G,Enable:1,Standard:11ax,BasicAuthenticationMode:None,Basic
+2023-10-22 17:55:34 [Critical][Config-Log] [2]EncryptionModes:AESEncryption,WPAAuthenticationMode:EAPAuthentication,WPAEncryptionModes:AESEncryption,IEEE11iAuthenticationMode:EAPAuthentication,IEEE11iEncryptionModes:AESEncryption,MixAuthen
+2023-10-22 17:55:34 [Critical][Config-Log] [3]ticationMode:PSKandSAEAuthentication,MixEncryptionModes:AESEncryption,SSIDAdvertisementEnabled:1,WMMEnable:1,MaxAssociateNum:64,BeaconType:WPA2/WPA3,WEPEncryptionLevel:104-bit,WEPKeyIndex:1,Key
+2023-10-22 17:55:34 [Critical][Config-Log] [4]:-
+2023-10-22 17:55:36 [Critical][Config-Log] [1]Terminal:WEB(192.168.100.93),UserName:root,Result:Success,Type:Set,InternetGatewayDevice.LANDevice.WLANConfiguration:1.5,Enable:1,SSIDAdvertisementEnabled:1,SSID:Totalplay-76AC-5G,X_HW_AssociateNu
+2023-10-22 17:55:36 [Critical][Config-Log] [2]m:64,BeaconType:WPA2/WPA3,X_HW_WPAand11iAuthenticationMode:PSKandSAEAuthentication,X_HW_WPAand11iEncryptionModes:AESEncryption,X_HW_GroupRekey:3600
+2023-10-22 17:55:36 [Critical][Config-Log] Terminal:WEB(192.168.100.93),UserName:root,Result:Success,Type:Set,LANDevice.WLANConfiguration.WPS:1.5,Enable:1,X_HW_ConfigMethod:Lable,X_HW_PinGenerator:STA,DevicePassword:-
+2023-10-22 17:55:36 [Critical][Config-Log] Terminal:WEB(192.168.100.93),UserName:root,Result:Success,Type:Set,LANDevice.WLANConfiguration.PreSharedKey:1.5.1,PreSharedKey:-
+2023-10-22 17:59:51 [Critical][Config-Log] Terminal:WEB(192.168.100.93),UserName:root,Result:Success,Type:Set,InternetGatewayDevice.UserInterface.X_HW_WebUserInfo:1,Password:-,OldPassword:-,GuideModifyPwdFlag:1
+2023-10-22 17:59:51 [Critical][Config-Log] Terminal:WEB(192.168.100.93),UserName:root,Result:Fail,Cmd:root modify root password fail!
+2023-10-22 17:59:58 [Critical][Config-Log] Terminal:WEB(192.168.100.93),UserName:root,Result:Success,Type:Set,LANDevice.WLANConfiguration.PreSharedKey:1.1.1,PreSharedKey:-
+2023-10-22 17:59:58 [Critical][Config-Log] Terminal:WEB(192.168.100.93),UserName:root,Result:Success,Type:Set,InternetGatewayDevice.LANDevice.WLANConfiguration:1.1,SSID:CasaAzamar_2.4Gnormal
+2023-10-22 17:59:58 [Critical][Config-Log] Terminal:WEB(192.168.100.93),UserName:root,Result:Success,Type:Set,LANDevice.WLANConfiguration.PreSharedKey:1.5.1,PreSharedKey:-
+2023-10-22 17:59:59 [Critical][Config-Log] Terminal:WEB(192.168.100.93),UserName:root,Result:Success,Type:Set,InternetGatewayDevice.LANDevice.WLANConfiguration:1.5,SSID:CasaAzamar_5.0Gnormal
+2023-10-22 18:01:02 [Critical][Config-Log] Terminal:WEB(192.168.100.93),UserName:root,Result:Fail,Cmd:root modify root password fail!
+2023-10-22 18:01:33 [Critical][Config-Log] Terminal:WEB(192.168.100.93),UserName:root,Result:Fail,Cmd:root modify root password fail!
+2023-10-22 18:01:33 [Critical][Config-Log] Terminal:WEB(192.168.100.93),Result:Success,Type:Logout,Username:root
+2023-10-22 18:01:33 [Critical][Config-Log] Terminal:WEB(192.168.100.93),UserName:root,Result:Success,Cmd:Exceeded maximum number attempted to modify password, Login locked.
+2023-10-22 18:10:11 [Critical][Config-Log] Terminal:WEB(192.168.100.93),Result:Fail,Type:Login,Username:root
+2023-10-22 18:10:42 [Critical][Config-Log] Terminal:WEB(192.168.100.93),Result:Fail,Type:Login,Username:root
+2023-10-22 18:10:53 [Critical][Config-Log] Terminal:WEB(192.168.100.93),Result:Fail,Type:Login,Username:CasaAzamar_2.4Gnormal
+2023-10-22 18:10:53 [Error][Alarm-Log] AlarmID:104032,AlarmLevel:Error,Administrator exceeded maximum number of attempted logins.Terminal:WEB
+2023-10-22 18:11:53 [Error][Alarm-Log] AlarmID:104519,AlarmLevel:Error,[WEB]unlocked!
+1981-01-01 00:00:00 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: System reset after being powered on, Terminal:OTHER
+2023-10-24 00:29:05 [Critical][Config-Log] Terminal:WEB(192.168.100.96),Result:Fail,Type:Login,Username:root
+2023-10-27 23:01:30 [Critical][Config-Log] Terminal:WEB(192.168.100.99),Result:Fail,Type:Login,Username:root
+2023-10-27 23:20:06 [Critical][Config-Log] Terminal:WEB(192.168.100.99),Result:Fail,Type:Login,Username:root
+2023-10-27 23:23:40 [Critical][Config-Log] Terminal:WEB(192.168.100.99),Result:Fail,Type:Login,Username:root
+2023-10-27 23:24:17 [Critical][Config-Log] Terminal:WEB(192.168.100.99),Result:Fail,Type:Login,Username:root
+2023-11-03 23:01:15 [Critical][Config-Log] Terminal:WEB(192.168.100.99),Result:Fail,Type:Login,Username:root
+2023-11-03 23:02:01 [Critical][Config-Log] Terminal:WEB(192.168.100.99),Result:Fail,Type:Login,Username:Aleja36taxi!!@@
+2023-11-03 23:05:11 [Critical][Config-Log] Terminal:WEB(192.168.100.99),Result:Fail,Type:Login,Username:root
+2023-11-03 23:05:52 [Critical][Config-Log] Terminal:WEB(192.168.100.99),Result:Fail,Type:Login,Username:root
+1981-01-01 00:00:00 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: System reset after being powered on, Terminal:OTHER
+2023-11-05 13:58:08 [Error][Alarm-Log] AlarmID:104507,AlarmLevel:Error,Configuration file is being restored.Terminal:ACS
+2023-11-05 13:58:10 [Error][Alarm-Log] AlarmID:104508,AlarmLevel:Error,Configuration file successfully restored.Terminal:ACS
+2023-11-05 13:58:11 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: [0], Terminal:ACS
+1981-01-01 00:00:00 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: System reset after being powered on, Terminal:OTHER
+2023-11-05 20:09:19 [Critical][Config-Log] Terminal:WEB(192.168.100.2),Result:Success,Type:Login,Username:root
+2023-11-05 20:10:53 [Critical][Config-Log] Terminal:WEB(192.168.100.2),Result:Success,Type:Logout,Username:root
+2023-11-05 20:12:30 [Critical][Config-Log] Terminal:WEB(192.168.100.2),Result:Success,Type:Login,Username:root
+2023-11-05 20:13:54 [Critical][Config-Log] Terminal:WEB(192.168.100.2),Result:Success,Type:Logout,Username:root
+2023-11-05 20:14:56 [Critical][Config-Log] Terminal:WEB(192.168.100.2),Result:Success,Type:Login,Username:root
+2023-11-05 20:16:21 [Critical][Config-Log] Terminal:WEB(192.168.100.2),UserName:root,Result:Success,Type:Set,InternetGatewayDevice.UserInterface.X_HW_WebUserInfo:1,Password:-,OldPassword:-,GuideModifyPwdFlag:1
+2023-11-05 20:16:23 [Critical][Config-Log] Terminal:WEB(192.168.100.2),UserName:root,Result:Success,Type:Set,LANDevice.WLANConfiguration.PreSharedKey:1.1.1,PreSharedKey:-
+2023-11-05 20:16:23 [Critical][Config-Log] Terminal:WEB(192.168.100.2),UserName:root,Result:Success,Type:Set,InternetGatewayDevice.LANDevice.WLANConfiguration:1.1,SSID:Totalplay-76AC
+2023-11-05 20:16:25 [Critical][Config-Log] Terminal:WEB(192.168.100.2),UserName:root,Result:Success,Type:Set,LANDevice.WLANConfiguration.PreSharedKey:1.5.1,PreSharedKey:-
+2023-11-05 20:16:25 [Critical][Config-Log] Terminal:WEB(192.168.100.2),UserName:root,Result:Success,Type:Set,InternetGatewayDevice.LANDevice.WLANConfiguration:1.5,SSID:Totalplay-76AC-5G
+2023-11-05 20:17:40 [Critical][Config-Log] Terminal:WEB(192.168.100.2),Result:Success,Type:Logout,Username:root
+1981-01-01 00:00:00 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: System reset after being powered on, Terminal:OTHER
+1981-01-01 00:00:00 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: System reset after being powered on, Terminal:OTHER
+1981-01-01 00:00:00 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: System reset after being powered on, Terminal:OTHER
+1981-01-01 00:00:00 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: System reset after being powered on, Terminal:OTHER
+1981-01-01 00:00:00 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: System reset after being powered on, Terminal:OTHER
+2023-11-05 23:10:09 [Error][Alarm-Log] AlarmID:303501,AlarmLevel:Error,OLT started to issue XML configurations
+2023-11-05 17:11:18 [Error][Alarm-Log] AlarmID:303502,AlarmLevel:Error,OLT successfully issued XML configurations
+2023-11-05 17:16:18 [Critical][Config-Log] Terminal:WEB(192.168.100.5),Result:Fail,Type:Login,Username:root
+2023-11-05 17:16:27 [Critical][Config-Log] Terminal:WEB(192.168.100.5),Result:Success,Type:Login,Username:root
+2023-11-05 17:16:30 [Critical][Config-Log] Terminal:WEB(192.168.100.5),Result:Success,Type:Login,Username:root
+2023-11-05 17:17:24 [Error][Alarm-Log] AlarmID:304523,AlarmLevel:Error,[WEB]Unauthorized web request from ip 192.168.100.6
+2023-11-05 17:17:24 [Error][Alarm-Log] AlarmID:304523,AlarmLevel:Error,[WEB]Unauthorized web request from ip 192.168.100.6
+2023-11-05 17:18:14 [Critical][Config-Log] Terminal:WEB(192.168.100.5),Result:Success,Type:Logout,Username:root
+2023-11-07 18:14:57 [Critical][Config-Log] Terminal:WEB(192.168.100.6),Result:Success,Type:Login,Username:root
+2023-11-07 18:15:00 [Error][Alarm-Log] AlarmID:304523,AlarmLevel:Error,[WEB]Unauthorized web request from ip 192.168.100.6
+2023-11-07 18:15:10 [Critical][Config-Log] Terminal:WEB(192.168.100.6),Result:Success,Type:Login,Username:root
